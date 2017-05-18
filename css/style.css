@@ -1,0 +1,41 @@
+body {
+  background-color: white;
+  font-size: 1.8em;
+  font-family: 'Cardo', serif;
+}
+
+.container-fluid {
+  padding-top: 30px;
+}
+
+.col-md-4 {
+  margin-top: 20px;
+}
+
+#btn-row {
+
+  text-align: center;
+}
+
+#getQuote {
+  margin-right: 100px;
+}
+
+#tweet {
+  margin-left: 30px;
+}
+
+#quote {
+  margin-top: 2px;
+}
+
+.quote-after{
+  padding: 5%;
+  border: 1px solid black;
+  border-radius: 1em;
+}
+
+#made-by {
+  font-size: 0.7em;
+  text-align: center;
+}
